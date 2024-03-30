@@ -39,4 +39,4 @@ Discovered that "lyrics and "len" have strong correlation on the datasets so i d
  
  Model Evaluation Results:
  Silhouette score is 0.20349044046358872
- There are 8 number of cluster in the silhouette score
+ There are 8 number of cluster in the cluster model
